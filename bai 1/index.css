@@ -2,7 +2,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
+  flex-direction: column;
+  border: 1px solid blue;
+  border-radius: 5px;
+  width: 300px;
 }
 .item {
   height: 20px;
